@@ -85,7 +85,7 @@ class MyWatchList(models.Model):
     review = models.TextField()
 ```
 
-## Screenshot Postman
+## Screenshot Postman.
 ### HTML
 [![Screen-Shot-html.png](https://i.postimg.cc/wvKCJn4D/Screen-Shot-2022-09-21-at-22-20-29.png)](https://postimg.cc/Ny4CvCc0)
 
